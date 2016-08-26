@@ -2,6 +2,7 @@
 // Based on the UKHAS GPSgen Code: http://ukhas.org.uk/code:emulator
 // Ported to arduino by Jim Blackhurst
 // 
+// 
 // ******************************************************
 // * 24/AUG/2016                                        * 
 // * adapted by G4lile0  for the proof of concept       *
@@ -10,9 +11,8 @@
 // * added Joystick management                          *
 // *  https://youtu.be/VqLSKPYKeXU                      *
 // ******************************************************
-//
-
-
+// Original code of the great HABsim at https://github.com/jimthree/HABsim
+// 
 
 
 #include <PString.h>    // from http://arduiniana.org/libraries/pstring/
